@@ -14,12 +14,12 @@
     "overrun_lakh",
     "overrun_pct"
   ],
-  "elapsed_seconds": 0.034,
+  "elapsed_seconds": 0.055,
   "engine": "pandas-chunked (Spark-shaped: map_partitions + partitioned output)",
   "file_count": 5,
   "format": "csv",
   "format_note": "to_parquet() replaces to_csv() here once pyarrow is available",
-  "generated_at": "2026-10-04T07:59:30",
+  "generated_at": "2026-11-15T07:03:26",
   "partition_column": "scheme_name",
   "partitions": {
     "scheme_name=Jal_Jeevan_Mission": {
